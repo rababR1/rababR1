@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rababR1
 - 👀 I’m interested in ... Coding with Python and making websites!
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Any text-based game or stuff on Replit
-- 📫 How to reach me ... Reach me on Replit! Link: 
+- 🌱 I’m currently learning ... Java, C, and C++
+- 💞️ I’m looking to collaborate on ... Anything!
 
 <!---
 rababR1/rababR1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
